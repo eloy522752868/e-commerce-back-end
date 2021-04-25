@@ -5,7 +5,7 @@ e-commerce back end
  1. [Description](#description)
  1. [Installation](#installation)
  1. [Usage](#usage)
- 1. [License](#license)
+ 1. [Screenshots](#screenshots)
  1. [Contributing](#contributing)
  1. [Questions](#questions)
 
@@ -21,15 +21,29 @@ Because this application won’t be deployed, I will provide a link to a walkthr
 
  npm i
 
-
  ## Usage
 
  Need to run node server.js to run.
 
+### Screenshot
 
- ## License
+Terminal Project running example:
 
- [https://opensource.org/licenses/Apache-2.0](https://opensource.org/licenses/Apache-2.0)
+![Screenshot](./images/Ecomserverrunning.png)
+
+Isnomia Api's calls:
+
+![Screenshot](./images/insomiaEcomAPI.png)
+
+### Details
+
+Github Repo link:
+
+[Video Instructions](https://github.com/eloy522752868/e-commerce-back-end)
+
+Video link below:
+
+[Video Instructions](https://drive.google.com/file/d/1Ue5AHOt1Z-hKyms1q5wCGq8baHyzJpSM/view)
 
  ## Contributing
 

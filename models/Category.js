@@ -1,6 +1,6 @@
 //modified by: Eloy Gonzalez
 //modified date: 04/24/2021
-//added method definition
+//added method Category definition
 const { Model, DataTypes } = require("sequelize");
 const sequelize = require("../config/connection.js");
 

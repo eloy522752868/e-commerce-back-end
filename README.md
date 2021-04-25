@@ -40,7 +40,7 @@ Isnomia Api's calls:
 
 Github Repo link:
 
-[Video Instructions](https://github.com/eloy522752868/e-commerce-back-end)
+[Github Repo link](https://github.com/eloy522752868/e-commerce-back-end)
 
 Video link below:
 
